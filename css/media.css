@@ -1,0 +1,170 @@
+
+@media (max-width: 575.98px) { 
+    .toggle{
+        font-size: 15px;
+    }
+    .navbar-brand img{
+        width: 60%;
+    }
+    .banner h2{
+        font-size: 27px;
+    }
+    .banner p{
+       font-size: 16px;
+    }
+    .feature-row{
+        min-height: 450px;
+    }
+    .headphone h2{
+        font-size: 27px;
+    }
+    .headphone p{
+        font-size: 16px;
+    }
+    .feature-one{
+        padding: 20px 0;
+    }
+    .feature-one i{
+        font-size: 20px;
+    }
+    .feature-one h3{
+        font-size: 24px;
+    }
+    .feature-one p{
+        font-size: 16px;
+    }
+    .overview i{
+        font-size: 20px;
+    }
+    .overview h2{
+        font-size: 24px;
+    }
+    .overview p{
+        font-size: 16px;
+    }
+    .slider{
+        padding: 80px 0px;
+    }
+    .slider h1{
+        font-size: 18px;
+        margin: 40px 0px;
+    }
+    .name{
+        font-size: 12px;
+    }
+    .carousel-indicators li {
+        width: 12px;
+        height: 12px;
+    }
+    footer{
+        padding: 0px;
+    }
+    footer a{
+        display: inline-block;
+        margin-top: 30px;
+        margin-left: 10px;
+        color: #27589b;
+        text-decoration: none;
+    }
+    footer .right{
+        margin-top: 6px;
+    }
+    footer .right p{
+        font-size: 11px;
+    }
+    footer .left ul li a{
+        margin: 3px;
+        font-size: 10px;
+    }
+    
+    
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .toggle{
+        font-size: 15px;
+    }
+    .navbar-brand img{
+        width: 60%;
+    }
+    .banner h2{
+        font-size: 27px;
+    }
+    .banner p{
+       font-size: 16px;
+    }
+    .feature-row{
+        min-height: 450px;
+    }
+    .headphone h2{
+        font-size: 27px;
+    }
+    .headphone p{
+        font-size: 16px;
+    }
+    .feature-one{
+        padding: 20px 0;
+    }
+    .feature-one i{
+        font-size: 20px;
+    }
+    .feature-one h3{
+        font-size: 24px;
+    }
+    .feature-one p{
+        font-size: 16px;
+    }
+    .overview i{
+        font-size: 20px;
+    }
+    .overview h2{
+        font-size: 24px;
+    }
+    .overview p{
+        font-size: 16px;
+    }
+    .slider{
+        padding: 80px 0px;
+    }
+    .slider h1{
+        font-size: 18px;
+        margin: 40px 0px;
+    }
+    .name{
+        font-size: 12px;
+    }
+    .carousel-indicators li {
+        width: 12px;
+        height: 12px;
+    }
+    footer{
+        padding: 0px;
+    }
+    footer a{
+        display: inline-block;
+        margin-top: 30px;
+        margin-left: 10px;
+        color: #27589b;
+        text-decoration: none;
+    }
+    footer .right{
+        margin-top: 6px;
+    }
+    footer .right p{
+        font-size: 12px;
+    }
+    footer .left ul li a{
+        margin: 4px;
+        font-size: 12px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+
+@media (min-width: 1200px) {  }
